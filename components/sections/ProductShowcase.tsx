@@ -39,7 +39,7 @@ const products = [
     id: 5,
     name: 'Power Flex',
     price: '$389',
-    image: 'https://images.pexels.com/photos/1456065/pexels-photo-1456065.jpeg?auto=compress&cs=tinysrgb&w=400',
+    image: 'https://images.pexels.com/photos/2529148/pexels-photo-2529148.jpeg?auto=compress&cs=tinysrgb&w=400',
     description: 'Unleash your potential',
   },
   {

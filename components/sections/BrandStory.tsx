@@ -5,7 +5,7 @@ import { useInView } from 'framer-motion';
 import { useRef } from 'react';
 
 const images = [
-  'https://images.pexels.com/photos/1456065/pexels-photo-1456065.jpeg?auto=compress&cs=tinysrgb&w=400',
+  'https://images.pexels.com/photos/1159670/pexels-photo-1159670.jpeg?auto=compress&cs=tinysrgb&w=400',
   'https://images.pexels.com/photos/1598505/pexels-photo-1598505.jpeg?auto=compress&cs=tinysrgb&w=400',
   'https://images.pexels.com/photos/1407354/pexels-photo-1407354.jpeg?auto=compress&cs=tinysrgb&w=400',
   'https://images.pexels.com/photos/1598508/pexels-photo-1598508.jpeg?auto=compress&cs=tinysrgb&w=400',
@@ -32,7 +32,7 @@ export default function BrandStory() {
             
             <div className="space-y-6 text-lg text-gray-300">
               <p>
-                StrideX isn't just a brand. We're a movement. Born in the gritty streets 
+                StrideX isn&apos;t just a brand. We&apos;re a movement. Born in the gritty streets
                 of Mumbai, crafted for those who refuse to be ordinary.
               </p>
               
